@@ -7,7 +7,7 @@
 - 🚀 Full Stack Web Developer by RecodePro.
 - 💻 Currently: Focused on improving my skills in Java and JavaScript.
 - ✨ Languages: Advanced English (C1), Native / Fluent Portuguese.
-- 🔍 Other passions: Science, Sci-Fi, Music (especially indie), coffee, books, and CATS. Always ready for a conversation about these topics!
+- 🔍 Other passions: Science, Sci-Fi, Music (especially indie), coffee, books, and CATS. 🐱
 
 ### My Journey:
 
@@ -36,7 +36,7 @@
 - 🚀 Desenvolvedora Web Full Stack pela RecodePro.
 - 💻 No momento: Focada em aprimorar meus conhecimentos em Java e JavaScript.
 - ✨ Idiomas: Inglês C1 Avançado, Português Nativo / Fluente.
-- 🔍 Outras paixões: Ciência, Sci-Fi, Música (especialmente indie), café, livros e GATOS. Sempre pronta para uma conversa sobre esses temas!
+- 🔍 Outras paixões: Ciência, Sci-Fi, Música (especialmente indie), café, livros e GATOS. 🐱
 
 ### Minha Jornada:
 
@@ -61,15 +61,13 @@
 
 ### Tools and Skills:
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,eclipse,git,github,java,mongodb,mysql,nextjs,nodejs,postman,py,react,spring,sqlite,visualstudio,vscode)](https://skillicons.dev)
-
+<!-- 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,eclipse,git,github,java,mongodb,mysql,nextjs,nodejs,postman,py,react,spring,sqlite,visualstudio,vscode)](https://skillicons.dev)
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,java,spring,mysql,nextjs,nodejs,postman,py,sqlite,js,bootstrap,git,github,mongodb,html,css,cs,dotnet,eclipse,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,java,spring,mysql,nextjs,nodejs,postman,py,js,bootstrap,git,github,mongodb,html,css,cs,dotnet,eclipse,visualstudio,vscode" />
   </a>
-  <!-- java,mongodb,mysql,nextjs,nodejs,postman,py,react,spring,sqlite,git,github,js,html,css,bootstrap,cs,dotnet,eclipse,visualstudio,vscode -->
 </p> 
 </div>
 <!-- <p align="center">
