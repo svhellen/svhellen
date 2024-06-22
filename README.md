@@ -66,7 +66,7 @@
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,java,spring,mysql,nextjs,nodejs,postman,py,js,bootstrap,git,github,mongodb,html,css,cs,dotnet,eclipse,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,java,spring,mysql,nodejs,postman,js,bootstrap,git,mongodb,html,css,eclipse,visualstudio,vscode" />
   </a>
 </p> 
 </div>
